@@ -1,5 +1,1 @@
-#!/bin/bash
-echo "## /etc/passwd ##"
-cat /etc/passwd
-echo -e "\n## /etc/hosts ##"
-cat /etc/hosts
+cat /etc/{passwd,hosts}
