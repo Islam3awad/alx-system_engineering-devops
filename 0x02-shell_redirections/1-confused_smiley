@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(Ôo)'"
+echo -e "(\xF4\x94\x82\xA0o\xA0)'"
